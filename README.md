@@ -1,4 +1,5 @@
-This is Frank's first Ruby on Rails App.
+#This is Frank's first Ruby on Rails App.
+
 Anyone who may happen to look at this should not take it seriously.
 This is my first attempt at learning Ruby on Rails.
 
